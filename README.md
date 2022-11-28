@@ -1,6 +1,6 @@
 # dotnetcompare
 
-## I simple repository to host several small projects, that will compare **dotnet** performace against differenet languages / frameworks, e.g. RUST.
+## A simple repository to host several small projects, that will compare **dotnet** performace against differenet languages / frameworks, e.g. RUST.
 
 ### 1. Some basic performance
 Here are projects to perform some modes, basic performance:
@@ -10,6 +10,7 @@ Here are projects to perform some modes, basic performance:
 * *rust* - basic program in RUST
 
 ### 2. JSON Serialization / Deserialization
+Here are projects to perform some performance on JSON serialization / desiarization
 
 * *cshjson* - JSON Serialization / Deserialization program in C# / dotnet
 * *rjson* - JSON Serialization / Deserialization program in RUST
