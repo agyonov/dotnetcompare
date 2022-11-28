@@ -19,7 +19,7 @@ internal partial class SourceGenerationContext : JsonSerializerContext
 
 internal class ChJson
 {
-    internal const string FILE_NAME = "/home/agyonov/large-file.json";
+    internal const string FILE_NAME = "large-file.json";
     internal readonly static JsonSerializerOptions JS_OPT = new JsonSerializerOptions
     {
         AllowTrailingCommas = true,

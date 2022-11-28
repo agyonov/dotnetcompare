@@ -6,7 +6,7 @@ use stopwatch::Stopwatch;
 
 fn main() {
     // Define the name of the source file
-    const FILE_NAME: &str = "/home/agyonov/large-file.json";
+    const FILE_NAME: &str = "large-file.json";
 
     // Open file
     let file_path = PathBuf::from(FILE_NAME);
